@@ -1,5 +1,8 @@
 # Movies-website
+
 A website built using HTML,CSS and JavaScript , where you can watch free online movies and trailers. 
+
+# Screenshots
 
 
 ![image](https://user-images.githubusercontent.com/67178658/151974470-28284d9a-36c9-4279-a577-1b9db868a63a.png)
