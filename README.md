@@ -1,10 +1,11 @@
 # Movies-website
-> A movies website built using HTML,CSS and JavaScript.
+> A movie website built using HTML,CSS and JavaScript.
 > Here you can watch free online movies and trailers. 
 
 ## Tools Used 🛠️
 * VS Code
 * HTML5,CSS3 and JavaScript
+* * API
 
 
 # Screenshots
