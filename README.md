@@ -5,7 +5,7 @@
 ## Tools Used 🛠️
 * VS Code
 * HTML5,CSS3 and JavaScript
-* * API
+* API
 
 
 # Screenshots
